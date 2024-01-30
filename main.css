@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(20, 20, 20);
+    font-family: Montserrat;
+}
+.main-title{
+    color: rgb(200, 200, 200);
+    font-weight: 600;
+    font-size: 80px;
+}
